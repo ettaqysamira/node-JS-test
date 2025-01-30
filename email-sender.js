@@ -11,7 +11,7 @@ var transporter = sendEmail.createTransport({
   
   var mailOptions = {
     from: 'sanatazi@gmail.com',
-    to: 'sarakamal@gmail.com',
+    to: 'samiraettaqy@gmail.com',
     subject: 'Request for Exam Date',
     text: 'Hi Mr,I am writing to kindly request the date of the final exam.\n\nThank you in advance for your response.'
   }
